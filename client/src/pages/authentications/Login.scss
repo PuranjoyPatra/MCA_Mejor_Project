@@ -1,0 +1,14 @@
+@import "../../constants/global/variables.scss";
+
+.login_wrapper {
+	.login_avatar {
+		background-color: var(--color-primary);
+	}
+	h1 {
+		font-family: var(--font-family), sans-serif;
+	}
+	.error-msg {
+		margin-top: 20px;
+		margin-bottom: -15px;
+	}
+}

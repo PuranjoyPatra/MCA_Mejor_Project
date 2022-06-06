@@ -1,0 +1,36 @@
+@import "../../constants/global/variables.scss";
+
+.registration_wrapper {
+	.error-msg-wrap {
+		margin-top: 25px;
+
+		.error-msg-lists {
+			.error-msg {
+				list-style: none;
+			}
+		}
+	}
+
+	.reg_avatar {
+		background-color: var(--color-primary);
+	}
+
+	h1 {
+		font-family: var(--font-family), sans-serif;
+	}
+
+	.alert_success_msg {
+		margin-top: 20px;
+		margin-bottom: -20px;
+	}
+
+	.dept_wrapper {
+		margin-top: 0 !important;
+		margin-bottom: 14px !important;
+		width: 100%;
+	}
+
+	.dept_select_field {
+		width: 100%;
+	}
+}

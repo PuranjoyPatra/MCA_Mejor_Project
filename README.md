@@ -2,9 +2,9 @@
 
 ### MCA Mejor Project
 
-An application that can gather all the informations for a perticular society of a College and show it to authenticated students of college. Students can see every informations.
+An application that can gather all the informations for a perticular society of a College and show it to authenticated students of college. Students can see every informations related that society.
 
-In a College there are different types of societies(clubs) where student shuld connect and can engage different activities to learn new skills and increase their knowledge.
+In a College there are different types of societies(clubs) where student shuld connect and engage with different activities to learn new skills and increase their knowledge.
 
 our application can help stidents to engage with societies of a college.
 
